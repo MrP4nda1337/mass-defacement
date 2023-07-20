@@ -10,5 +10,4 @@ kerana tools ni digunakan untuk melakukan mass defacement jika domain tersebut m
 # Screenshot
 ![banner](https://github.com/MrP4nda1337/mass-defacement/blob/main/banner.jpg)
 
-![ss](https://github.com/MrP4nda1337/mass-defacement/blob/main/status.jpg
-)
+
